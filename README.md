@@ -29,7 +29,7 @@
 - **Contrôle de version :** Git  
 
 ### 🔹 Centres d'intérêt  
-- Développement Web 🌍  
+- Sport 🏃
 - Data Science 📊  
 - Bases de données & Systèmes distribués 🛠️  
 
@@ -54,5 +54,10 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:emilien.huron.pro@gmail.com)  
 
 ---
+
+## 📊 Statistiques GitHub 
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HuronEmilien&layout=compact&theme=radical)
+
 
 ![Emilien Huron Location](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
