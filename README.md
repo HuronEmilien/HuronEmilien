@@ -1,37 +1,76 @@
-# 👋👋👋
+# 👋 Hello, bienvenue sur mon profil !  
 
-💻 **Développeur / Étudiant **  
-📍 **Basé à Caen**  
-🌱**Actuellement en train d'apprendre [Technologie]**  
-🚀 **Passionné par [Domaine, ex: Intelligence Artificielle, Dev Web, Cybersécurité]**  
-📫 **Me contacter : [ton.email@example.com]**  
+💻 **Développeur & Étudiant en Informatique**  
+📍 **Basé à Caen, France**  
+🚀 **Passionné par la Data Science, l’Analyse de Données et le Sport**  
+📫 **Me contacter : [emilien.huron.pro@gmail.com](mailto:emilien.huron.pro@gmail.com)**  
 
 ---
 
 ## 🚀 À propos de moi  
-🔹 **Langages :** Python, Java, JavaScript, C++  
-🔹 **Frameworks :** React, Node.js, Spring Boot  
-🔹 **Outils :** Git, Docker, Linux, VS Code  
-🔹 **Centres d'intérêt :** Développement Web, Data Science, IA, Cloud Computing  
+
+### 🔹 Langages de programmation  
+- **Back-end :** Python, Java, PHP, C  
+- **Front-end :** JavaScript, HTML, CSS  
+- **Langages spécialisés :** Haskell  
+
+### 🔹 Bases de données  
+- **SQL :** MySQL, MariaDB, PostgreSQL  
+- **NoSQL :** MongoDB, Neo4j  
+
+### 🔹 Frameworks & Bibliothèques  
+- **Web & API :** React, Node.js  
+
+### 🔹 Outils & Technologies  
+- **Environnement :** Linux, VS Code  
+- **Gestion de projet :** Trello  
+- **Analyse réseau :** Wireshark  
+- **Bureautique :** Pack Office  
+- **Contrôle de version :** Git  
+
+### 🔹 Centres d'intérêt  
+- Développement Web 🌍  
+- Data Science 📊  
+- Bases de données & Systèmes distribués 🛠️  
 
 ---
 
 ## 📌 Projets & Contributions  
-🔹 **[Nom du projet 1](https://github.com/tonpseudo/projet1)** → *Brève description du projet*  
-🔹 **[Nom du projet 2](https://github.com/tonpseudo/projet2)** → *Brève description du projet*  
-🔹 **[Voir tous mes projets](https://github.com/tonpseudo?tab=repositories)**  
+
+🔹 **[StrategyGame](https://github.com/HuronEmilien/StrategyGame)** → *Jeu de stratégie développé en HTML.*  
+🔹 **[LDVEH-analyzer](https://github.com/HuronEmilien/LDVEH-analyzer)** → *Analyse des livres dont vous êtes le héros, en Java.*  
+🔹 **[ReactNativeApplication](https://github.com/HuronEmilien/ReactNativeApplication)** → *Application mobile en React Native.*  
+🔹 **[AnalysisOfSortingAlgorithms](https://github.com/HuronEmilien/AnalysisOfSortingAlgorithms)** → *Étude des performances des algorithmes de tri en Java.*  
+🔹 **[WikiSimilarity-Bert](https://github.com/HuronEmilien/WikiSimilarity-Bert)** → *Analyse de similarité de textes avec BERT en Python.*  
+🔹 **[Portfolio](https://github.com/HuronEmilien/portfolio)** → *Mon portfolio personnel.*  
+
+🔹 **[Voir tous mes projets](https://github.com/HuronEmilien?tab=repositories)**  
 
 ---
 
 ## 🌍 Où me trouver ?  
-📌 **GitHub** : [tonpseudo](https://github.com/tonpseudo)  
-📌 **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
-📌 **Twitter** : [@tonpseudo](https://twitter.com/tonpseudo)  
+📌 **LinkedIn** : [Emilien Huron](https://www.linkedin.com/in/emilien-huron-99559b225/)  
+📌 **Linktree** : [EmilienHuron](https://linktr.ee/EmilienHuron)  
 
 ---
 
 ## 📊 Statistiques GitHub  
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=HuronEmilien&show_icons=true&theme=radical)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HuronEmilien&layout=compact&theme=radical)  
 
 ---
+
+## 🎯 Activité GitHub  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HuronEmilien&theme=redical)  
+
+---
+
+## 🔥 Badges & Contact  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emilien-huron-99559b225/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/HuronEmilien)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:emilien.huron.pro@gmail.com)  
+
+---
+
+## 👀 Nombre de visiteurs  
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=HuronEmilien.HuronEmilien)  
