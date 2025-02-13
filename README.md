@@ -57,7 +57,9 @@
 
 ## 📊 Statistiques GitHub 
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HuronEmilien&layout=compact&theme=radical)
+![Statistiques GitHub de HuronEmilien](https://github-readme-stats.vercel.app/api?username=HuronEmilien&show=reviews,discussions_started&show_icons=true&theme=radical)
+![Statistiques GitHub de HuronEmilien](https://github-readme-stats.vercel.app/api?username=HuronEmilien&show_icons=true&theme=tokyonight)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HuronEmilien&hide=javascript,html&layout=compact&theme=radical)
 
 
 ![Emilien Huron Location](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
