@@ -55,10 +55,4 @@
 
 ---
 
-## 📊 Statistiques GitHub 
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HuronEmilien&layout=donut&theme=radical)
-
-
-
 ![Emilien Huron Location](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
