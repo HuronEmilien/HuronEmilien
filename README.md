@@ -1,4 +1,6 @@
-# 👋 Hello, bienvenue sur mon profil !  
+# 👋 Bienvenue sur mon profil !  
+
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 💻 **Développeur & Étudiant en Informatique**  
 📍 **Basé à Caen, France**  
@@ -57,3 +59,15 @@
 
 ## 📊 Statistiques GitHub  
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HuronEmilien&layout=compact&theme=radical)  
+
+![Emilien Huron Location](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/HuronEmilien/HuronEmilien/blob/output/github-contribution-grid-snake.svg)
+
+### 🛠 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
