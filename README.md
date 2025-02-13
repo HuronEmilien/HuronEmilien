@@ -48,29 +48,13 @@
 
 ---
 
-## 🌍 Où me trouver ?  
-📌 **LinkedIn** : [Emilien Huron](https://www.linkedin.com/in/emilien-huron-99559b225/)  
-📌 **Linktree** : [EmilienHuron](https://linktr.ee/EmilienHuron)  
-
----
-
-## 📊 Statistiques GitHub  
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=HuronEmilien&show_icons=true&theme=radical)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HuronEmilien&layout=compact&theme=radical)  
-
----
-
-## 🎯 Activité GitHub  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=HuronEmilien&theme=redical)  
-
----
-
-## 🔥 Badges & Contact  
+## 🌍 Où me trouver ? 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emilien-huron-99559b225/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/HuronEmilien)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:emilien.huron.pro@gmail.com)  
 
 ---
 
-## 👀 Nombre de visiteurs  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=HuronEmilien.HuronEmilien)  
+## 📊 Statistiques GitHub  
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=HuronEmilien&show_icons=true&theme=radical)  
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HuronEmilien&layout=compact&theme=radical)  
