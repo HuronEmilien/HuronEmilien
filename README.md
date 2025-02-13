@@ -56,5 +56,4 @@
 ---
 
 ## 📊 Statistiques GitHub  
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=HuronEmilien&show_icons=true&theme=radical)  
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=HuronEmilien&layout=compact&theme=radical)  
